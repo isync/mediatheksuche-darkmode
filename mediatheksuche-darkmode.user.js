@@ -4,7 +4,7 @@
 // @description  This script adds a switch to toggle between the standard light design and a dark "dark mode" user interface for low light situations
 // @description:de Dieses Skript fügt einen Schalter zu MediathekSuche.de hinzu, mit dem das Design der Seite von hell zu einem dunklen Dark-Mode Modus umgeschaltet werden kann. Wenn man MediathekSuche.de so zum Stöbern in den Sender-Mediatheken verwendet, kann es praktisch sein, wenn das Layout dunkel und nicht so hell ist, je nach Umgebungsbeleuchtung.
 // @namespace    https://github.com/isync/mediatheksuche-darkmode
-// @homepageURL  https://www.mediatheksuche.de
+// @homepageURL  https://mediatheksuche.de/
 // @version      0.10
 // @author       isync
 // @license      GPL-3.0-or-later; http://www.gnu.org/licenses/gpl-3.0.txt
