@@ -7,6 +7,7 @@
 // @homepageURL  https://www.mediatheksuche.de
 // @version      0.10
 // @author       isync
+// @license      GNU GPL License
 // @match        https://mediatheksuche.de/*
 // @icon         https://www.google.com/s2/favicons?domain=mediatheksuche.de
 // @grant        none
