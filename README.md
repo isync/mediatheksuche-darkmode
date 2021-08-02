@@ -7,7 +7,7 @@ Dieses Skript fügt einen Schalter zu MediathekSuche.de hinzu, mit dem das Desig
 Mit einer entsprechenden UserScript Browser-Erweiterung kann das Skript auch über diese Plattformen installiert werden:
 
 * [Greasy Fork](https://greasyfork.org/scripts/430259-mediatheksuche-darkmode)
-* [OpenUserJS](https://openuserjs.org/scripts/isync/mediatheksuche-darkmode)
+* [OpenUserJS](https://openuserjs.org/scripts/isync/MediathekSuche_darkmode)
 
 ## Über MediathekSuche
 
